@@ -1,2 +1,12 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using System;
+
+namespace Queues_Kohnen_Christian
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Poopybutthole");
+        }
+    }
+}
