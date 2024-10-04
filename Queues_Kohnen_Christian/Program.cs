@@ -6,7 +6,7 @@ namespace Queues_Kohnen_Christian
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Poopybutthole");
+            Console.WriteLine("Hail the King Burger!");
         }
     }
 }
